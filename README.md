@@ -1,4 +1,7 @@
-### Olá! Eu sou a Débora Melo 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f8f2&size=30&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Débora+Melo;I'm+from+Brasil-SP;I+study+Systems+Analysis+Development+at+FATEC-SPB;Be+Welcome!:%30)](https://git.io/typing-svg)
+
+systems  and development
 
  <div>
   <a href="https://github.com/melodebora">
