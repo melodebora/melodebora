@@ -15,7 +15,7 @@
     <img align="left" alt="cat cut" height="90" width="100" src="https://media.tenor.com/BmS559safAoAAAAj/cat-peach.gif">
 </div>
 
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/melodebora/melodebora/blob/output/github-contribution-grid-snake.svg)
 
 
       
