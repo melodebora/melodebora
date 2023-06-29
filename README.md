@@ -1,10 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f8f2&size=30&center=true&vCenter=true&width=1000&lines=Hello!;+My+name+is+Débora+Melo;I'm+from+Brasil-SP;I+study+Systems+Analysis+Development+at+FATEC;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=570357&size=30&center=true&vCenter=true&width=1000&lines=Hello!;+My+name+is+Débora+Melo;I'm+from+Santana+de+Parnaíba-SP;I+study+Systems+Analysis+Development+at+FATEC;Be+Welcome!)](https://git.io/typing-svg)
 
- <div>
-  <a href="https://github.com/melodebora">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=melodebora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodebora&layout=compact&langs_count=16&theme=dracula"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
