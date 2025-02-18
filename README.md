@@ -1,15 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=570357&size=30&center=true&vCenter=true&width=1000&lines=Hello!;+My+name+is+Débora+Melo;I'm+from+Santana+de+Parnaíba-SP;I+study+Systems+Analysis+Development+at+FATEC;Be+Welcome!)](https://git.io/typing-svg)
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Débora Melo</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+            animation: fadeIn 1s;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin: 0.5em 0;
+            animation: fadeIn 1.5s;
+        }
+        .skills {
+            display: flex;
+            justify-content: center;
+            margin: 1em 0;
+        }
+        .skills img {
+            margin: 0 10px;
+            transition: transform 0.3s;
+        }
+        .skills img:hover {
+            transform: scale(1.2);
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
 
-<div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
-</div>
+    <h1>Olá! Eu sou Débora Melo</h1>
+    <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
+    <h2>De Santana de Parnaíba - SP</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/melodebora/melodebora/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/melodebora/melodebora/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/melodebora/melodebora/blob/output/github-snake.svg" />
-</picture>
+    <div class="skills">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    </div>
+
+</body>
+</html>
