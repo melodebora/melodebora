@@ -21,13 +21,6 @@
 ![Débora Melo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melodebora&show_icons=true&theme=radical)
 
 ---
-
-## 🐍 Contribuições no GitHub
-
-![Snake animation](https://github.com/melodebora/melodebora/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Como me encontrar
 
 - [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/d%C3%A9bora-de-melo-silva-31692116a/))
