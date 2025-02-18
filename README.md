@@ -21,9 +21,10 @@
 ![Débora Melo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melodebora&show_icons=true&theme=radical)
 
 ---
+
 ## 📫 Como me encontrar
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/d%C3%A9bora-de-melo-silva-31692116a/))
+- [LinkedIn](https://www.linkedin.com/in/d%C3%A9bora-de-melo-silva-31692116a/)
 - [GitHub](https://github.com/melodebora)
 
 ---
