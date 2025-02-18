@@ -1,8 +1,5 @@
-# Olá! 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=570357&size=30&center=true&vCenter=true&width=1000&lines=Hello!;+My+name+is+Débora+Melo;I'm+from+Santana+de+Parnaíba-SP;I+study+Systems+Analysis+Development+at+FATEC;Be+Welcome!)](https://git.io/typing-svg)
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
